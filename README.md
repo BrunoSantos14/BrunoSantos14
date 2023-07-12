@@ -1,7 +1,7 @@
 # Bruno Cavalcanti
 
 
-- 👨🏼‍💻 **Assistente de Dados Sênior** na [Controllab](https://controllab.com/)
+- 👨🏼‍💻 **Analista de Dados** na [Controllab](https://controllab.com/)
 - 👨🏼‍🏫 **Professor** de Matemática
 - :mortar_board: **Matemática** - Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
 
